@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "video-to-text-236118",
+  "private_key_id": "7c0eb4e245da25fdc14aea491279e9820019ac5d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmcSJghQkmCNmm\n2FfYRFwNVzW06dHUkt7qOoMEdv6krYuZdkC9dU4XgHMbRYpqhQi9KdEZkiRBEDW7\nbQ+EHZiCZ1gIx4jmW+xuiJMK94p6+v+ug23icZciFD+Wa/7R6cQHUGvET0d8H/Wd\n2AdO+2YHc+BH49mqqfiKVCccDSy++vNdoJ/g58ZsDq6Bn4UTsURzh2p4SajySNkz\nmA1hUTaUv9WB45Mzhagm1hgh5Du8Kcydb5Y98rZ650/Nr/TjVQ1sKqZhZ2LqxA8B\nXWbS2OKhsswFD9cL6WzPihwnhukDuEqK2oFoTifWjGqFejR/E/DHK2krGdYSjqBw\najiycepdAgMBAAECggEAJ21QU+Xfu2tIR64i7P+QgLaCaecjhgP+mySeKZ4YhyD3\nGzS4dEjH5WhPnAu2lLIL1meD+Vc1kFYLLGlSzhyGpoldgMLnio4G7U4b6vKlkqlH\njOrkSkpXH0MFpxfRBp+mCIeD575R9DTL5YapgIur6SMJY241fyiBUB9MHmh+i4Sb\nqJv0bWndPDhDywuoWjYcRJN8Xaa28FAcvrzXhIzfy+RL2otQ1LTaQ9vPUQ/TPQFC\n4J+SfFQzX+Qj0C1IKScaE4+t9v+iB1voVBN2QWVs2W29LWAzZ89io6Fp81rhrRaj\nzLQJnLVNri8jpvpWINQ470/k7NH0moF0k8NuBFFL3wKBgQDf3bQUD2xrDuJ2ngiq\nflfXM1bjqouDYV1nJtB2zUT50nJvgVdG5vEDaW++UzWk5ZRqo17oHhKBMnFrj3JJ\nJJaqBAYKAt03F1+XyWrrgSEJxYsTjoFpCKdSjqBPBk5oaavfp0aO6XoS31NZw0Hq\nKMBTStBZULqpPK4tBAvnqjJBxwKBgQC+VUuaP8/kCD+3tOYCAUs8xm5VEUBzIojN\nDYUvzkan6lBe8FPHyNz8Y6jebC0e6sJWKeEBbxdMT1YthQ5QaF9m2b0kux8gIE2b\nfRwnpqWyHFl6Qr0EjONCwtqnYSwE0+xlSw5GCczDG/c7SNyHmFa8Vo4YQmjZCrW/\nnK8nigUyuwKBgQDCCeO9g4Tg4rzuPZqbVPmEYU6N9VQJ44nXD/CfGNsRgxSHi99/\naEs9PtWJbYxQymGzcLmhjfdSHsvqhCJ2PY2N/gDSCpt91feYlA/l4z4kvyIGKH4I\n8WQ+jbtr47ZwkC9WoyHoW3zhAMu5QSJP+VSCnZUr5Wp1qE/8WsaK3Z3EHwKBgGUi\nH1zjwUwSUgEEHx87nsW5TlDnLM7Ar9387CMdwQ9iArifjHTgtwNo1QbyhfsilIaC\nFCvV4pRKp6jiRVvWSbL1yXnl78D7SSFwlfA/rVV5mNXM9nCfh/YmYVaE3IXoMXkV\nK41tkZ6ukmyu53cpLBVBDJm5V8rT1QTudWdWADMXAoGBAJkAn+1NViBrZCfftspW\nCaKX9v7BWyjjyfRee276tWqtBypskRRU6C0oPI8cPA/a8ZzdmBI7YAY5WJVwuq5C\ncOy2ShKXekczjWS/+u7DmQzJiXhaZodjHheC4w+u3/qSQmwZcj04S6PmHDrabfzQ\ndI0CZg/Y50EJad8pA0f9HCeb\n-----END PRIVATE KEY-----\n",
+  "client_email": "padoroshenko-tu@video-to-text-236118.iam.gserviceaccount.com",
+  "client_id": "108971861847938572862",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/padoroshenko-tu%40video-to-text-236118.iam.gserviceaccount.com"
+}

@@ -1,0 +1,25 @@
+[Unit]
+
+Description=My Service
+
+After=syslog.target
+
+[Service]
+
+Type=simple
+
+User=ubuntu
+
+Group=ubuntu
+
+WorkingDirectory=/home/ubuntu/video-to-text
+
+ExecStart=/usr/bin/python3 /home/ubuntu/video-to-text/video-to-text.py
+
+StandardOutput=syslog
+
+StandardError=syslog
+
+[Install]
+
+WantedBy=multi-user.target
